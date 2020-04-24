@@ -8,6 +8,8 @@ const translations = {
     default: 'Error',
     baddata: 'Incorrect value',
     size: 'File too big',
+    dimension: 'File Dimension too big',
+    small: 'File size too small',
     upload: 'Can’t upload',
     user: 'Upload canceled',
     info: 'Can’t load info',
